@@ -24,7 +24,7 @@
   "homepage": "https://github.com/jesseskinner/mocha-phantomjs",
   "devDependencies": {
     "chai": "^1.10.0",
-    "jquery": "^2.1.2",
+    "jquery": "^3.4.1",
     "mocha": "^2.0.1",
     "mocha-phantomjs": "^3.5.2",
     "phantomjs": "^1.9.12"
